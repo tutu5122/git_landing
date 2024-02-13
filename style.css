@@ -1,11 +1,11 @@
 body {
-  background: #342E37;
-  }
+  background: #c6a7d6;
+}
 
 .container {
   padding-top: 30px;
-} 
-  
+}
+
 h1 {
   color: #fff;
   font-family: 'Space Mono', monospace;
@@ -13,7 +13,7 @@ h1 {
   text-align: center;
   font-weight: 300;
 }
-  
+
 img {
   max-width: 40%;
   padding: 20px;
@@ -24,7 +24,7 @@ img {
 form {
   padding: 30px;
 }
-  
+
 .btn {
   outline: none;
   border: none;
@@ -37,9 +37,9 @@ form {
   border-radius: 20px;
   box-shadow: 0 6px #2E282A;
 }
-  
+
 .btn a {
-    color: white;
+  color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   font-weight: 300;
@@ -50,10 +50,10 @@ form {
 
 .btn:hover {
   box-shadow: 0 4px #2E282A;
-  top: 2px; 
+  top: 2px;
 }
 
 .btn:active {
   box-shadow: none;
-  top: 6px; 
-} 
+  top: 6px;
+}
